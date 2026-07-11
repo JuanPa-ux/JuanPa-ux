@@ -6,7 +6,7 @@
 
 ## A Software Engineering Student | Aspiring Linux Tester | Audiophile | Hardcore Gamer
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcTJ3YWwwbjNiaHBkcWp2M2swMXptZms3azB4dXZhYXpqMnZveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmNTrf8h73f5C6nZzJ/giphy.gif" width="180">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTExMHY1cng3Y2lpYjNmMDB5dXI2b2E0cHN3YzdvcmZyYW16aXlnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPqOo4mSdbXQEhpkMI/giphy.gif" width="180">
 
 ### 🧑‍💻 About Me
 
