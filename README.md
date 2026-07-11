@@ -1,7 +1,7 @@
 # Hi there! I'm Juan Pablo (aka JuanPa) 🎸🇲🇽💻
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JuanPa-ux&fontSize=90&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXBjcW56OHhmMHZnaDhpZGdhYjBkdngyaWk0NW5hMGkwajJ3NmV5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Iduxjws3JCmjBNGXTj/giphy.gif" />
 </p>
 
 ## A Software Engineering Student | Aspiring Linux Tester | Audiophile | Hardcore Gamer
