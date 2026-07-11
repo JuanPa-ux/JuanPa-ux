@@ -41,11 +41,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JuanPa-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de JuanPa-ux" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPa-ux&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180px"/>
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=JuanPa-ux&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de JuanPa-ux" height="180px"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPa-ux&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
 </p>
