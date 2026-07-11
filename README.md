@@ -1,4 +1,4 @@
-# Hi there! I'm Juan Pablo (aka JuanPa) 🎸🇲🇽💻
+# Hi there! I'm Juan Pablo (JuanPa) 🎸🇲🇽💻
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXBjcW56OHhmMHZnaDhpZGdhYjBkdngyaWk0NW5hMGkwajJ3NmV5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Iduxjws3JCmjBNGXTj/giphy.gif" />
@@ -36,13 +36,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-### 📱 Main Project
 
-*   🛡️ **VeloxSeguros:** A native mobile application developed in Android Studio (Java).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
 
 ### 📊 GitHub Stats
 
