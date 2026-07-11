@@ -33,7 +33,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-
+<!-- Asegúrate de poner esto justo debajo de la tabla en tu código -->
+<p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwOWljY2FveXowdHhucDQ0bTRyYWpjaHo4dHYxNWoxNm9xb3NiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" width="180">
+</p>
 ### 📱 Main Project
 
 *   🛡️ **VeloxSeguros:** A native mobile application developed in Android Studio (Java).
