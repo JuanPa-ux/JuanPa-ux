@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXBjcW56OHhmMHZnaDhpZGdhYjBkdngyaWk0NW5hMGkwajJ3NmV5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Iduxjws3JCmjBNGXTj/giphy.gif" />
 </p>
 
-## A Software Engineering Student | Aspiring Linux Tester | Audiophile | Hardcore Gamer
+## A Computer Systems Engineering Student | Aspiring Linux Tester | Audiophile | Hardcore Gamer
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTExMHY1cng3Y2lpYjNmMDB5dXI2b2E0cHN3YzdvcmZyYW16aXlnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPqOo4mSdbXQEhpkMI/giphy.gif" width="180">
 
 ### 🧑‍💻 About Me
 
-*   🎓 **Future:** Incoming Software Engineering student, passionate about building robust code.
+*   🎓 **Future:** Incoming Computer Systems Engineering student, passionate about building robust systems.
 *   🐧 **Linux Curious:** Deeply interested in venturing into the Linux world—ready to start *distro-hopping* soon!
 *   🔊 **Audio Nerd:** Obsessed with High-Fidelity (Hi-Fi) audio and precise equalization. Things *must* sound right xd.
 *   🎮 **Challenge Seeker:** Love brutal, precise games like *Hollow Knight* & *Nine Sols*, and intense 1v1 *Valorant* matchups.
@@ -24,6 +24,8 @@
 
 ### 🛠️ My Tech Stack
 
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hwOWljY2FveXowdHhucDQ0bTRyYWpjaHo4dHYxNWoxNm9xb3NiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" width="180">
+
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> Java &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> JavaScript &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Python &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> PHP &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/> C++ |
@@ -33,10 +35,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-<!-- Asegúrate de poner esto justo debajo de la tabla en tu código -->
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hwOWljY2FveXowdHhucDQ0bTRyYWpjaHo4dHYxNWoxNm9xb3NiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" width="180">
-</p>
+
 ### 📱 Main Project
 
 *   🛡️ **VeloxSeguros:** A native mobile application developed in Android Studio (Java).
