@@ -36,14 +36,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-
-
-
-### 📊 GitHub Stats
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JuanPa-ux&fontSize=50&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+</p>
+<p align="right"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHgzZnlyMXQ2aWdzdmRjNmg0OW9ic3lqeHUzMDZqb2o0OHdwbTFxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWV2DjOEheNbsO8bjq/giphy.gif" width="180"/></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JuanPa-ux&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de JuanPa-ux" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPa-ux&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=tokyonight" />
 </p>
