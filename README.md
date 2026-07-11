@@ -37,10 +37,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JuanPa-ux&fontSize=50&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
-</p>
-<p align="right"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHgzZnlyMXQ2aWdzdmRjNmg0OW9ic3lqeHUzMDZqb2o0OHdwbTFxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWV2DjOEheNbsO8bjq/giphy.gif" width="180"/></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=tokyonight" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ozeHIwYWtsM2hzd3d6MXA2MGJsamt1dTE2eTY4MW92OXExMWE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqwEfwktDpy5GpwrkK/giphy.gif" />
 </p>
